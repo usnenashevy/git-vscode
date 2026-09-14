@@ -1,0 +1,7 @@
+body {
+  font-family: "Arial", sans-serif; /* Changes the font type */
+  font-size: 24px; /* Sets the default text size */
+  color: #000000; /* Sets the text color (dark gray) */
+  line-height: 1.6; /* Improves readability by spacing out lines */
+  font-weight: 400; /* Sets the font thickness (normal) */
+}
